@@ -1,6 +1,6 @@
 {
   "name": "file-ranger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Make, move, or copy files and directories using ranges.",
   "bin": {
     "ranger": "cli.js"
