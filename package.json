@@ -39,6 +39,10 @@
     "url": "https://github.com/AustinLeeGordon"
   },
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hutsoninc/file-ranger"
+  },
   "dependencies": {
     "copy-to-range": "^1.0.3",
     "make-dir-range": "^1.0.3",
